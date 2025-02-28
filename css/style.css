@@ -16,3 +16,12 @@ h1 {
 p {
   background-color: #b0e6b4;
 }
+
+span {
+  text-align: center;
+}
+
+img {
+  float: right;
+  height: 200px;
+}
