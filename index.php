@@ -49,7 +49,7 @@
         <div class="page-content">
           <?php echo '<p>Hello, World!, in PHP</p>'; ?>
         </div>
-        <img src="./images/notebook-animation.svg" />
+        <img src="./images/flower.jpeg" />
         <!-- Simple Textfield for integers-->
         <form action="#">
           <br />
